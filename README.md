@@ -80,9 +80,9 @@ To build intelligent systems that connect **AI, IoT, robotics, and software engi
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: **Coming soon**
+💼 LinkedIn: in/maram-saidi-5385022b5
 
-📧 Email: **Coming soon**
+📧 Email: maramsaidi1207@gmail.com
 
 ---
 
