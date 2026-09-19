@@ -52,9 +52,6 @@ AI + IoT smart agriculture platform combining software, intelligent systems, and
 ### 🤖 Autonomous Agricultural Robot
 AI-powered robotic system designed for plant counting, disease detection, and autonomous agricultural monitoring.
 
-### 🧠 Machine Learning Portfolio
-A collection of Machine Learning projects covering fundamental algorithms, data preprocessing, model training, and evaluation.
-
 ### 🔐 Cybersecurity & Wazuh
 Security monitoring laboratory focused on SIEM, Wazuh, Linux, virtual machines, and cybersecurity fundamentals.
 
